@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on anything!  I love working with people!
 - 💬 Ask me about how I pivoted into being a mid-life dev.
 - 📫 How to reach me: [my website](www.k8hansen.com) for now, it's being updated!
-- ⚡ Fun fact: Coming soon!
+- ⚡ Fun fact: I can say the alphabet backwards really fast.  My second grade teacher made us learn it backwards, too.
 
