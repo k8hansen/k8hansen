@@ -7,4 +7,3 @@
 - 📫 How to reach me: [my website](www.k8hansen.com) for now, it's being updated!
 - ⚡ Fun fact: Coming soon!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=k8hansen.visitor-badge)
