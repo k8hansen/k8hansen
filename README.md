@@ -1,8 +1,6 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-- 🌿 I’m a former new media artist + Public Art project manager, turned dev.
-- 🌿 I’m looking to collaborate on anything!  I love working with people!
-- 🌿 How to reach me: [my website](https://www.k8hansen.com/) for now, it's being updated. Or see links below:
+- 🌿 How to reach me: [my website](https://www.k8hansen.com/) (under construction)
 
 ### 💻 Front-End Development
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
