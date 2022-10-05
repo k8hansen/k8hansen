@@ -1,6 +1,6 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-- 🌿 How to reach me: [my website](https://www.k8hansen.com/) (under construction)
+🌿 How to reach me: [my website](https://www.k8hansen.com/) (under construction)
 
 ### 💻 Front-End Development
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
